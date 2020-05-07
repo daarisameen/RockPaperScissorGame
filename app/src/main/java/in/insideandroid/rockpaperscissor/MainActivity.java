@@ -1,3 +1,4 @@
+// what is package r?
 package in.insideandroid.rockpaperscissor;
 
 import androidx.appcompat.app.AlertDialog;
